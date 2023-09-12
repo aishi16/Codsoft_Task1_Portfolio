@@ -1,0 +1,27 @@
+.para
+{
+    border: 10px;
+    border-radius: 30px;
+    border-color: rgb(58, 6, 108);
+ border-style: ridge;
+  box-shadow: inset;
+}
+
+.boxes
+{
+    border-color: rgb(78, 17, 136);
+    border-style: inset;
+}
+.Chat
+{   
+    position:-webkit-sticky;
+    position: fixed;
+    bottom: 0%;
+    left: 990px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    background-image: ( 180deg,rgb(158, 94, 218),rgb(25, 2, 45));
+    
+
+}
